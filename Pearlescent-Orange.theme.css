@@ -4,7 +4,7 @@
  * @author Jaie55#8188
  * @authorId 442080599444815892
  * @description A black theme with orange pearlescent
- * @source https://github.com/Jaie55/Pearlescent-Orange/tree/main/
+ * @source https://github.com/Jaie55/Pearlescent-Orange/tree/main/Pearlescent-Orange.css
  * @website https://www.youtube.com/channel/UC-XDPRheWsy28IH2ePU7tMQ
  * @invite AZsmmAbeUQ
 */
@@ -20,7 +20,7 @@
 @import url("https://github.com/Jaie55/Pearlescent-Orange/tree/main/Pearlescent-Orange.css");
 
 :root {
-    --version1_0_5: none;
+    --version1_0_0: none;
     --text-normal: #dcddde;
     --text-muted: #4A4A52;
     --text-link: #FB4F2A;
@@ -45,8 +45,8 @@
     --info-danger-text: #fff;
     --info-help-text: #fff;
     --status-warning-text: #000;
-    --background-mentioned: #6f6af62c;
-    --background-mentioned-hover: #6f6af615;
+    --background-mentioned: rgba(251, 80, 42, 0.151);
+    --background-mentioned-hover: rgba(251, 80, 42, 0.493);
     --background-message-hover: rgba(4,4,5,0.07);
     --scrollbar-auto-thumb: #FB4F2A;
     --brand-experiment: #FB4F2A;
