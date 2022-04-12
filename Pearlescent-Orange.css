@@ -4,7 +4,7 @@
 
 #app-mount .app-2CXKsg::before {
     content: "Your version of Pearlescent Orange is outdated. Please download the newest version from source";
-    display: var(--version1_0_5, block);
+    display: var(--version1_0_0, block);
     background-color: var(--brand-experiment);
     color: #fff;
     font-size: 14px;
